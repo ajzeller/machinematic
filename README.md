@@ -1,1 +1,1 @@
-# machinematic
+Static web page for machinematic labs.
